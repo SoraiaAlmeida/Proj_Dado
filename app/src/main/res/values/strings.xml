@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dado</string>
+    <string name="Dado1">Dado N°1</string>
+    <string name="Dado2">Dado N°2</string>
+    <string name="Dado3">Dado N°3</string>
+    <string name="gerar">Gerar valores</string>
+</resources>
